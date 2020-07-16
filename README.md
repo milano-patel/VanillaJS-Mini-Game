@@ -1,3 +1,5 @@
+Live Preview: https://milano-patel.github.io/vanillaJS-mini-game/
+
 Intro: 
 Mini-game created with Vanilla Javascript.
 
